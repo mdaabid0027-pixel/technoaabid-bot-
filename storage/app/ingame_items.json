@@ -1,0 +1,42 @@
+{
+    "striker": {
+        "id": "striker",
+        "name": "STRIKER PRICE",
+        "button_text": "🧿 STRIKER PRICE",
+        "title": "WEBSHOP STRIKER 🥏",
+        "caption": "WEBSHOP STRIKER 🥏\r\n\r\nDM TO BUY\r\n📗 Whatsapp ❞\r\nhttps://wa.me/91XXXXXXXXXX",
+        "whatsapp_number": "XXXXXXXXXX",
+        "photo_file_id": "AgACAgUAAxkDAAIDY2qNxah_gmYC0WzzwmQnGfP_IzhLAAKwEmsbbP1xVBUtY2_NDQGVAQADAgADdwADPQQ",
+        "photo_url": "/uploads/ingame/striker_1787675895.jpg"
+    },
+    "trail": {
+        "id": "trail",
+        "name": "TRAIL PRICE",
+        "button_text": "🔥 TRAIL PRICE",
+        "title": "CARROM POOL TRAILS 🔥",
+        "caption": "CARROM POOL TRAILS 🔥\r\n\r\nDM TO BUY\r\n📗 Whatsapp ❞\r\nhttps://wa.me/91XXXXXXXXXX",
+        "whatsapp_number": "XXXXXXXXXX",
+        "photo_file_id": "AgACAgUAAxkDAAIDbWqNxn3jDHsuEKUNFVaauIpYbHYUAAKyEmsbbP1xVGlpeGvOIChkAQADAgADeQADPQQ",
+        "photo_url": "/uploads/ingame/trail_1787675886.jpg"
+    },
+    "gems": {
+        "id": "gems",
+        "name": "GEMS PRICE",
+        "button_text": "💎 GEMS PRICE",
+        "title": "CARROM POOL GEMS 💎",
+        "caption": "CARROM POOL GEMS 💎\r\n\r\nDM TO BUY\r\n📗 Whatsapp ❞\r\nhttps://wa.me/91XXXXXXXXXX",
+        "whatsapp_number": "XXXXXXXXXX",
+        "photo_file_id": "AgACAgUAAxkDAAIGWWqPSCGUrMO__rhJe8YBXLROnu57AALuFWsbbP15VFDceR9U322VAQADAgADeAADPQQ",
+        "photo_url": "/uploads/ingame/gems_1787675902.jpg"
+    },
+    "coins": {
+        "id": "coins",
+        "name": "COIN PRICE",
+        "button_text": "🟡 COIN PRICE",
+        "title": "CARROM POOL COINS 🟡",
+        "caption": "CARROM POOL COINS 🟡\r\n\r\nDM TO BUY\r\n📗 Whatsapp ❞\r\nhttps://wa.me/91XXXXXXXXXX",
+        "whatsapp_number": "XXXXXXXXXX",
+        "photo_file_id": "AgACAgUAAxkDAAIDYmqNxX2T0Du6oqaYkxHmQcBkv7aWAAKvEmsbbP1xVHGcmQabMZxhAQADAgADeAADPQQ",
+        "photo_url": "/uploads/ingame/coins_1787675915.jpg"
+    }
+}
